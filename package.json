@@ -1,0 +1,6 @@
+{
+  "name": "agent-pald-monitor-de-precios-de-criptomo-morpwnhy",
+  "version": "1.0.0",
+  "description": "Proyecto de Pald [Gen15]: monitor de precios de criptomonedas con alertas",
+  "main": "index.js"
+}
